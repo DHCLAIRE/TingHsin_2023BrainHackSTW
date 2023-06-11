@@ -30,15 +30,14 @@ image: ""
 
 ## Project definition
 
-### Background   `What is this??`
+### Background   
 
-Inspired by the [Recurse Centre](https://www.recurse.com/) initiative (formally known as the "hacker school"), Brainhack School was established in 2018 with the mission to train students from multidisciplinary backgrounds to a panoply of reproducible tools for neural data science, using a project-based approach. Following an initial 3-weeks long pilot, a 4th week was added with an intensive bootcamp, so that students could choose what tools to learn more deeply in their projects. As the course became integrated in standard curriculum at different universities, the formula seemed to be working. In order to streamline the different stages of the project, some standard template and milestones needed to be incorporated in a github-based workflow. The "project template" project (which is also our first BHS meta-project) aims at establishing such a standardized template. You can check the following [video](https://youtu.be/PTYs_JFKsHI) where Pierre Bellec gives an overview of the Brainhack school.
+Inspired by [Brennan & Hale (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334990/pdf/pone.0207741.pdf), and [Brodbeck et al., 2021](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2021.08.01.454687.full.pdf), which used multiple auditory and linguistic features within the stimuli to apply to temporal response function, which is a convolution-model-based model, as the new alternative approach to explore and assess the process of speech comprehension. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PTYs_JFKsHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Tools
 
-The "project template" project will rely on the following technologies:
+The "Ngram & MEG" project will rely on the following technologies:
  * Regex, to preprocess the text.
  * Ngram model construction, to build and train the ngram model from scratch.
  * Temporal Response Function (TRF), to estimate the corresponding neural activity by convolution model.
