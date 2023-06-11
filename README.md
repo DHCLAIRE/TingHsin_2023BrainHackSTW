@@ -90,6 +90,6 @@ See [procedure](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main
 
 ## Conclusion and acknowledgement
 
-The BHS team hope you will find this template helpful in documenting your project. Developping this template was a group effort, and benefitted from the feedback and ideas of all BHS students over the years.
+There's still some modification on the Ngram model as well as the neural data analysis using TRF, even though, the owner of this repo hope you will find this template helpful in conducting your project.
 
 
