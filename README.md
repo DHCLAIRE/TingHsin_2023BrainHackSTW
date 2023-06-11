@@ -55,7 +55,7 @@ At the end of this project, we will have:
  - A functional Ngram model and Instructions about how to build the Ngram model from your own corpus, see [BHSTW_POSngram_COCA](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/BHSTW_POSngram_COCA.py)
  - A preprocess steps, see [BHSTW_POStagged_preprocess](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/BHSTW_POStagged_preprocess.py)
  - MEG preprocessing commands and instructions from [MNE-Python](https://mne.tools/stable/auto_tutorials/preprocessing/40_artifact_correction_ica.html#sphx-glr-auto-tutorials-preprocessing-40-artifact-correction-ica-py)
- - Modified TRF [procedure]() origined from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
+ - Modified TRF [procedure](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/BHSTW_TRFs_produce-estimate_LTTC_ESLs.py) originated from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
 
 ## Results
 
