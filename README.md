@@ -1,7 +1,7 @@
 # TingHsin_project_2023BHSTW
 ---
-type: "project" # DON'T TOUCH THIS ! :)
-date: "2023-05-25" # Date you first upload your project.
+type: "project" 
+date: "2023-05-25"
 # Title of your project (we like creative title)
 title: "Ngram as syntactic predictor in ESL speech comprehension"
 
@@ -20,7 +20,7 @@ tags: [ngram, ESL, speech comprehension, TRF]
 
 # Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
 
-summary: "Each project repository should have a markdown file explaining the background and objectives of the project, as well as a summary of the results, and links to the different deliverables of the project. Project reports are incorporated in the BHS [website](https://psy6983.brainhackmtl.org/project)."
+summary: "POS ngram model served as the sequencing process of speech comprehension, hence, with the brain response prediction (TRF) corresponds to the surprisal estimated from ngram model, the underlying mechanism of speech comprehension in ESLs could be presented."
 
 # If you want to add a cover image (listpage and image in the right), add it to your directory and indicate the name
 # below with the extension.
