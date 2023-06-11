@@ -9,7 +9,7 @@ title: "Ngram as syntactic predictor in ESL speech comprehension"
 names: [Ting-Hsin Yen]
 
 # Your project GitHub repository URL
-github_repo: [NgramMEG_2023BrainHackSTW](https://github.com/DHCLAIRE/NgramMEG_2023BrainHackSTW)
+github_repo: [TingHsin_project_2023BHSTW](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/tree/main)
 
 # If you are working on a project that has website, indicate the full url including "https://" below or leave it empty.
 website:
