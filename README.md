@@ -32,7 +32,7 @@ image: ""
 
 ### Background   
 
-Inspired by [Brennan & Hale (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334990/pdf/pone.0207741.pdf), and [Brodbeck et al., (2021)](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2021.08.01.454687.full.pdf), which used multiple auditory and linguistic features within the stimuli to apply to temporal response function, which is a convolution-model-based model, as the new alternative approach to explore and assess the process of speech comprehension. 
+Inspired by [Brennan & Hale (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334990/pdf/pone.0207741.pdf), and [Brodbeck et al., (2021)](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2021.08.01.454687.full.pdf), which used multiple auditory and linguistic features within the stimuli to apply to temporal response function, the convolution-model-based model, as the new alternative approach to explore and assess the process of speech comprehension. 
 
 
 ### Tools
