@@ -52,10 +52,10 @@ MEG data: collected through MEG in Academia Sinica, Taiwan.
 ### Deliverables
 
 At the end of this project, we will have:
- - A functional Ngram model and Instructions about how to build the Ngram model from your own corpus, see [BHSTW_POSngram_COCA](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/BHSTW_POSngram_COCA.py)
- - A preprocess steps, see [BHSTW_POStagged_preprocess](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/BHSTW_POStagged_preprocess.py)
+ - A functional Ngram model and Instructions about how to build the Ngram model from your own corpus.
+ - A POS tagged texts preprocess steps.
  - MEG preprocessing commands and instructions from [MNE-Python](https://mne.tools/stable/auto_tutorials/preprocessing/40_artifact_correction_ica.html#sphx-glr-auto-tutorials-preprocessing-40-artifact-correction-ica-py)
- - Modified TRF [procedure](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/BHSTW_TRFs_produce-estimate_LTTC_ESLs.py) originated from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
+ - Modified TRF procedure originated from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
 
 ## Results
 
@@ -75,37 +75,24 @@ swiftly initiated by P Bellec, based on the existing template created in 2019 by
 
 #### Deliverable 1: POS Ngram model
 
-See [BHSTW_POSngram_COCA.py](https://github.com/DHCLAIRE/NgramMEG_2023BrainHackSTW/blob/main/BHSTW_POSngram_COCA.py)
+See [BHSTW_POSngram_COCA.py](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/BHSTW_POSngram_COCA.py)
 
-#### Deliverable 2 (Future aim): Temporal Responce Function (TRF)
+#### Deliverable 2 : A POS tagged texts preprocess steps.
 
-To be announced.
+See [BHSTW_POStagged_preprocess.py](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/BHSTW_POStagged_preprocess.py)
 
-#### Deliverable 3 (Future aim): Syntactic surprisal as predictor in speech comprehension process (Statistical results)
+#### Deliverable 3 : MEG preprocessing commands and instructions from MNE-Python
 
-To be announced,
+See [LTTC_ESLs_MEG_preprocess.ipynb](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/LTTC_ESLs_MEG_preprocess.ipynb)
 
-##### ECG pupilometry pipeline by Marce Kauffmann
+#### Deliverable 4 (Future aim) : Modified TRF procedure originated from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
 
-The repository of this project can be found [here](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann). The objective was to create a processing pipeline for ECG and pupillometry data. The motivation behind this task is that Marcel's lab (MIST Lab @ Polytechnique Montreal) was conducting a Human-Robot-Interaction user study. The repo features:
- * a [video introduction](http://www.youtube.com/watch/8ZVCNeX42_A) to the project.
- * a presentation [made in a jupyter notebook](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann/blob/master/BrainHackPresentation.ipynb) on the results of the project.
- * Notebooks for all analyses.
- * Detailed requirements files, making it easy for others to replicate the environment of the notebook.
- * An overview of the results in the markdown document.
+See [procedure](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/blob/main/BHSTW_TRFs_produce-estimate_LTTC_ESLs.py) 
 
-##### Other projects
-Here are other good examples of repositories:
-- [Learning to manipulate biosignals with python](https://github.com/mtl-brainhack-school-2019/franclespinas-biosignals) by François Lespinasse
-- [Run multivariate anaylysis to relate behavioral and electropyhysiological data](https://github.com/mtl-brainhack-school-2019/PLS_PV_Behaviour)
-- [PET pipeline automation and structural MRI exploration](https://github.com/mtl-brainhack-school-2019/rwickens-sMRI-PET) by Rebekah Wickens
-- [Working with PSG [EEG] data from Parkinson's patients](https://github.com/mtl-brainhack-school-2019/Soraya-sleep-data-in-PD-patients) by Cryomatrix
-- [Exploring Brain Functional Activation in Adolescents Who Attempted Suicide](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo) by Anthony Gifuni
 
 
 ## Conclusion and acknowledgement
 
 The BHS team hope you will find this template helpful in documenting your project. Developping this template was a group effort, and benefitted from the feedback and ideas of all BHS students over the years.
 
-You can also make submit your project to neurolibre https://neurolibre.org/. It is a preprint server for interactive data analyses. It is tailored for publishing interactive neuroscience notebooks that can seamlessly integrate data, text, code and figures.The submission instructions can be found here https://docs.neurolibre.org/en/latest/index.html and the jupyter book docs there https://jupyterbook.org/intro.html.
 
