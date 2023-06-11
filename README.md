@@ -55,7 +55,7 @@ At the end of this project, we will have:
  - A functional Ngram model and a preprocess steps. 
  - The calculated POS surprisal of the word.
  - Instructions on the scripts about how to build the Ngram model from your own corpus.  
- - MEG preprocessing commands and instructions [(from MNE-Python)](https://mne.tools/stable/auto_tutorials/preprocessing/40_artifact_correction_ica.html#sphx-glr-auto-tutorials-preprocessing-40-artifact-correction-ica-py)
+ - MEG preprocessing commands and instructions from [MNE-Python](https://mne.tools/stable/auto_tutorials/preprocessing/40_artifact_correction_ica.html#sphx-glr-auto-tutorials-preprocessing-40-artifact-correction-ica-py)
  - Modified TRF procedure origined from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
  - 
 
