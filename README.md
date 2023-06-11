@@ -45,8 +45,8 @@ The "project template" project will rely on the following technologies:
 
 ### Data
 
-Lab owned MEG data of 13 Mandarin speakers who are ESLs. 
-Lab: Brain and Language Lab, Institute of Cognitive Neuroscience, National Central University, Taiwan
+Lab owned MEG data of 13 Mandarin speakers who are ESLs.  
+Lab: Brain and Language Lab, Institute of Cognitive Neuroscience, National Central University, Taiwan  
 MEG data: collected through MEG in Academia Sinica, Taiwan.
 
 ### Deliverables
