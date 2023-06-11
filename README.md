@@ -40,7 +40,8 @@ Inspired by the [Recurse Centre](https://www.recurse.com/) initiative (formally 
 
 The "project template" project will rely on the following technologies:
  * Regex, to preprocess the text.
- * Ngram model construction(NLTK), to build and train the ngram model from scratch.
+ * Ngram model construction, to build and train the ngram model from scratch.
+ * Temporal Response Function (TRF), to estimate the corresponding neural activity by convolution model.
 
 ### Data
 
@@ -54,12 +55,17 @@ At the end of this project, we will have:
  - A functional Ngram model and a preprocess steps. 
  - The calculated POS surprisal of the word.
  - Instructions on the scripts about how to build the Ngram model from your own corpus.  
+ - MEG preprocessing commands and instructions [(from MNE-Python)](https://mne.tools/stable/auto_tutorials/preprocessing/40_artifact_correction_ica.html#sphx-glr-auto-tutorials-preprocessing-40-artifact-correction-ica-py)
+ - Modified TRF procedure origined from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
+ - 
 
 ## Results
 
 ### Progress overview
 
-The project was swiftly initiated by P Bellec, based on the existing template created in 2019 by Tristan Glatard and improved by different students. It was really not that hard. Community feedback is expected to lead to rapid further improvements of this first version.
+The project was a idea combination experiment initiated by Ting-Hsin, based on the research by Brennnan & Hale (2019) and Brobecj
+
+swiftly initiated by P Bellec, based on the existing template created in 2019 by Tristan Glatard and improved by different students. It was really not that hard. Community feedback is expected to lead to rapid further improvements of this first version.
 
 ### Tools I learned during this project
 
@@ -75,11 +81,11 @@ See [BHSTW_POSngram_COCA.py](https://github.com/DHCLAIRE/NgramMEG_2023BrainHackS
 
 #### Deliverable 2 (Future aim): Temporal Responce Function (TRF)
 
-To be announced
+To be announced.
 
-#### Deliverable 3 (Future aim): Syntactic surprisal as predictor in speech comprehension process
+#### Deliverable 3 (Future aim): Syntactic surprisal as predictor in speech comprehension process (Statistical results)
 
-To be announced
+To be announced,
 
 ##### ECG pupilometry pipeline by Marce Kauffmann
 
@@ -98,9 +104,6 @@ Here are other good examples of repositories:
 - [Working with PSG [EEG] data from Parkinson's patients](https://github.com/mtl-brainhack-school-2019/Soraya-sleep-data-in-PD-patients) by Cryomatrix
 - [Exploring Brain Functional Activation in Adolescents Who Attempted Suicide](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo) by Anthony Gifuni
 
-#### Deliverable 3: Instructions
-
- To be made available soon.
 
 ## Conclusion and acknowledgement
 
