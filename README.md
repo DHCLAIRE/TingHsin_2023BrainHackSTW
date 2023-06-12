@@ -60,7 +60,7 @@ At the end of this project, we will have:
 
 ### Progress overview
 
-The project was a idea to combine research method of [Brennan & Hale (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334990/pdf/pone.0207741.pdf) and [Brodbeck et al., (2021)](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2021.08.01.454687.full.pdf). 
+The project was experimental project to combine research method of [Brennan & Hale (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334990/pdf/pone.0207741.pdf) and [Brodbeck et al., (2021)](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2021.08.01.454687.full.pdf). 
 
 ### Tools I learned during this project
 
