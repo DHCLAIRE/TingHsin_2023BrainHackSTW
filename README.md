@@ -1,10 +1,8 @@
 # TingHsin_project_2023BHSTW
 
-Title: "Ngram as syntactic predictor in ESL speech comprehension"
-
-Type: "project" 
-
-Date: "2023-05-25"
+Title: "Ngram as syntactic predictor in ESL speech comprehension"\n
+Type: "project"\n
+Date: "2023-05-25"\n
 
 Collaborator names: [Ting-Hsin Yen]
 github_repo: [TingHsin_project_2023BHSTW](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/tree/main)
