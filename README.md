@@ -1,5 +1,5 @@
 # TingHsin_project_2023BHSTW
----
+
 title: "Ngram as syntactic predictor in ESL speech comprehension"
 type: "project" 
 date: "2023-05-25"
@@ -7,14 +7,15 @@ date: "2023-05-25"
 Collaborator names: [Ting-Hsin Yen]
 github_repo: [TingHsin_project_2023BHSTW](https://github.com/DHCLAIRE/TingHsin_project_2023BHSTW/tree/main)
 
-## Website URL:
+### Website URL:
 website:
 
-## 4 keywords
+### 4 keywords
 tags: [ngram, meg, speech comprehension, trf]
 
-## Project summary
+### Project summary
 summary: "POS ngram model served as the sequencing process of speech comprehension, hence, with the brain response prediction (TRF) corresponds to the surprisal estimated from ngram model, the underlying mechanism of speech comprehension in ESLs could be presented."
+
 image: ""
 ---
 <!-- This is an html comment and this won't appear in the rendered page. You are now editing the "content" area, the core of your description. Everything that you can do in markdown is allowed below. We added a couple of comments to guide your through documenting your progress. -->
