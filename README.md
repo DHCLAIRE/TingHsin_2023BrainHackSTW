@@ -1,4 +1,4 @@
-# TingHsin_project_2023BHSTW
+# TingHsin 2023 BrainHack School TW Project
 
 **Title**: "Ngram as syntactic predictor in ESL speech comprehension"
 
